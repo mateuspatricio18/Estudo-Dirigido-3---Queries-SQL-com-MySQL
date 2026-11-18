@@ -1,0 +1,6 @@
+mkdir estudo-sql
+cd estudo-sql
+git init
+
+git config --global user.name "Mateus Ferreira Patricio"
+git config --global user.email "mateuslimapatricio@gmail.com"
