@@ -1,0 +1,2 @@
+git add q1.sql
+git commit -m "Questão 1: Selecionar todos os livros"
